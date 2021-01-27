@@ -1,0 +1,8 @@
+*{margin:0;padding: 0;}
+.header{border-bottom:1px solid #ddd;text-align: center;padding:10px 0;}
+.footer{border-top:1px solid #ddd;text-align: center;}
+.content{padding:10px 0;text-align: center;}
+
+.total{margin:10px 0;}
+.diceArea{text-align: center;}
+.dice{display:inline-block;border:1px solid #ddd;width:100px;height:100px;margin:0 10px;text-align: center;line-height:100px;font-size:40px;}
